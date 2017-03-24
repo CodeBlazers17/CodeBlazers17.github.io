@@ -1,0 +1,19 @@
+Whenever Writing a blog, Name the .html file as blogddmmyyb.html
+
+Where:
+
+blog	: Write as it is
+dd	: Date of writng of Blog
+mm	: Month of writng of Blog
+yy	: Year of writng of Blog % 100
+b	: Blog number for the day - Refer to the repository at https://github.com/CodeBlazers17/CodeBlazers17.github.io for the list of blogs posted on that day and number your blog accordingly
+
+
+Title of the BLOG:
+ The Title of the blogpost must be clear and concise
+
+Topics for the blogs:
+        Can be anything you like
+
+Want to submit your own Article?
+        mail it at codeblazers17@gmail.com
